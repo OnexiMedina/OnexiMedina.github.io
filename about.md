@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a Senior Computer Science student at NSU, currently working on Open Source Research at UCSC. I also have experience in UX/UI Design and Cybersecurity work. If you would like to contact me please refer to the email below.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[medinaonexi@gmail.com](mailto:medinaonexi@gmail.com)
