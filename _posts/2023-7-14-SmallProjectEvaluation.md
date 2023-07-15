@@ -4,6 +4,8 @@ title: Small-Scale Project Evaluation
 ---
 
 ![ Small Project ](https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)
+
+
 Today I took the time to evaluate a project named OpenSSF Scorecard, which is “an automated tool that assesses a number of important heuristics ("checks") associated with software security and assigns each check a score of 0-10”. The purpose is to “use these scores to understand specific areas to improve in order to strengthen the security posture of your project”. Additionally, you can “assess the risks that dependencies introduce, and make informed decisions about accepting these risks, evaluating alternative solutions, or working with the maintainers to make improvements”, according to their Scorecard’s project overview. 
 
 The project itself seems to be active, even though it is a smaller community, there are multiple issues posted as of recent on their issues page and each of them have numerous replies. Currently, there are 113 established contributors and a total of 37 users to date. If I was to make a contribution to the Scorecard project, I would scroll through their documentation for new contributors and read up on everything I need to know before gathering context. Later on, I would read through their issues to see if there is one I can identify with enough context to continue investigating on how I can contribute. Finally, if possible, I would seek to get in touch with a maintainer to start a discussion on how I can meaningfully impact the project.
