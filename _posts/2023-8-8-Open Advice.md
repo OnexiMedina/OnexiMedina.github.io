@@ -3,7 +3,7 @@ layout: post
 title: Open Advice
 ---
 
-![ Advice ]([https://images.unsplash.com/photo-1548438294-1ad5d5f4f063?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2344&q=80](https://images.unsplash.com/photo-1553877522-43269d4ea984?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80))
+![ Advice ](https://images.unsplash.com/photo-1553877522-43269d4ea984?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)
 
   Today, I read a chapter from the Open Advice book under Infrastructure titled, “Backups to Maintain Sanity”. It was a rather quirky title, so I gave it a read and found some surprisingly good advice. The passage talks about how having a stable data backup of an existing project can help a project advance forward much quicker. In projects with more resources, or a larger budget, there often exists a copy of the project that is stable, and another copy, in a separate environment, that is used for constant experimentation. For smaller projects, experimentation with the existing stable version is harder to do, given that they don’t have a separate environment to experiment on their code. However, with data backups, a smaller project can progress quickly and make changes without the fear of losing their work. A fun analogy that is used to describe this is: “People tend to play a game differently when they have infinite lives as compared to needing to start over from the start as soon as one mistake is made”.
  
